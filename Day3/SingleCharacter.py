@@ -7,7 +7,6 @@ def IsSingle(mword):
         return False
 
 
-
 if __name__ == "__main__":
     while True:
         get_word = input('Enter the letter.')
